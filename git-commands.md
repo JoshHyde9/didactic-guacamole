@@ -22,3 +22,10 @@
     - As well as the local repo against the remote repo 
 -  git diff <file>
     - Shows the difference between the working dir and the local repo 
+- git add .
+    - Move all changes from working tree to staging area
+    - use `git add <file/folder>`  to just stage specific files
+- git commit -m "my message"
+    - Commit staged changes to the local repo
+- git push
+    - Send all changes to the remote repo 
