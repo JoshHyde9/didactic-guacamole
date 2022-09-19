@@ -29,3 +29,5 @@
     - Commit staged changes to the local repo
 - git push
     - Send all changes to the remote repo 
+- git pull
+    - Retrieve the latest changes from the remote repo
